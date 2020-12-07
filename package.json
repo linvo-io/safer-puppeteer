@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-safer",
+  "version": "1.0.1",
+  "description": "Puppeteer is one of the leading tools for automating browsers. Puppeteer is great for E2E testing but, when it comes to scarping / automation, there are few things we need to do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linvo-io/safer-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linvo-io/safer-puppeteer/issues"
+  },
+  "homepage": "https://linvo.io"
+}
